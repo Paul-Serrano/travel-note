@@ -1,5 +1,4 @@
 import cardPin from "../../public/img/card-pin.png"
-import data from "../data";
 
 function Card(props) {
     return(

@@ -20,6 +20,7 @@ body {
   flex-direction: column;
   background-color: aliceblue;
   margin: 10% auto;
+  border-radius: 1rem;
 }
 
 .nav {
@@ -29,6 +30,7 @@ body {
   align-items: center;
   width: 100%;
   padding: 2.5% 0;
+  border-radius: 1rem 1rem 0 0;
 }
 
 .nav-container {
