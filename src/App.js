@@ -10,6 +10,7 @@ function App() {
             key={item.key}
             item={item}
         />
+        console.log(item)
     })
   return (
     <div className="App">
